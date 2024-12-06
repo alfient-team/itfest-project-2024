@@ -1,0 +1,32 @@
+version: "3.9"
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fastapi_app
+    ports:
+      - "${APP_PORT}:${APP_PORT}"
+    depends_on:
+      - db
+    env_file: 
+      - .env
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+    volumes:
+      - .:/app
+      - /app/__pycache__
+
+  db:
+    image: postgres:15
+    container_name: postgres_db
+    ports:
+      - "${POSTGRES_PORT}:${POSTGRES_PORT}"
+    env_file: 
+      - .env
+    volumes:
+      - flaudbook_postgres_data:/var/lib/postgresql/data
+
+volumes:
+  flaudbook_postgres_data:

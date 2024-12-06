@@ -1,0 +1,30 @@
+run:
+	@echo "Server is on running..."
+
+	@fastapi dev .\app\main.py
+
+docker-build:
+	@docker compose up --build -d
+
+docker-run:
+	@docker compose up -d
+
+docker-logs:
+	@docker compose logs -f
+
+docker-down:
+	@docker compose down
+
+docker-down:
+	@docker compose down -v
+
+docker-exec-app:
+	@docker exec -it fastapi_app sh
+
+docker-exec-db:
+	@docker exec -it postgres_db psql -U postgres -d app_db
+	#@docker exec -it postgres_db sh
+
+test:
+	@echo "Testing..."
+	@poetry pytest
