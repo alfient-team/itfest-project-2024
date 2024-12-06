@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: platformservice
-          image: dotpep/platformservicedotnet:latest
+          image: dotpep/itfestplatformservice:latest
 ---
 apiVersion: v1
 kind: Service

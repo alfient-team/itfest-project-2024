@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: commandservice
-          image: dotpep/commandservicedotnet:latest
+          image: dotpep/itfestcommandservice:latest
 ---
 apiVersion: v1
 kind: Service
