@@ -1,12 +1,11 @@
-import React, { useState } from 'react'
-import './SearchBar.css'
+// src/components/SearchBar/SearchBar.jsx
+import React from 'react';
+import './SearchBar.css';
 
-function SearchBar({ onSearch }) {
-    const [value, setValue] = useState('')
-
+function SearchBar({ onSearch, value, onChange }) {
     const handleKeyPress = (e) => {
         if (e.key === 'Enter') {
-            onSearch()
+            onSearch();
         }
     }
 
@@ -17,12 +16,12 @@ function SearchBar({ onSearch }) {
                 type="text"
                 placeholder="Что бы почитать..."
                 value={value}
-                onChange={(e) => setValue(e.target.value)}
+                onChange={onChange}
                 onKeyPress={handleKeyPress}
             />
             <span className="searchbar-icon" onClick={onSearch}>🔍</span>
         </div>
-    )
+    );
 }
 
-export default SearchBar
+export default SearchBar;

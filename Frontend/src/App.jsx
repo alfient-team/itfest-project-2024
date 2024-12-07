@@ -1,21 +1,22 @@
-import React, { useState } from 'react'
-import './App.css'
-import Header from './components/Header/Header'
-import BookCardList from './components/BookCardList/BookCardList'
+// src/App.jsx
+import React, { useState } from 'react';
+import './App.css';
+import Header from './components/Header/Header';
+import BookCardList from './components/BookCardList/BookCardList';
 
 function App() {
-    const [searchActive, setSearchActive] = useState(false)
+    const [query, setQuery] = useState('');
 
-    const handleSearch = () => {
-        setSearchActive(true)
+    const handleSearch = (searchQuery) => {
+        setQuery(searchQuery);
     }
 
     return (
         <div className="App">
-            <Header onSearch={handleSearch}/>
-            {searchActive && <BookCardList />}
+            <Header onSearch={handleSearch} />
+            {query && <BookCardList query={query} />}
         </div>
-    )
+    );
 }
 
-export default App
+export default App;

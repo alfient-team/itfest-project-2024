@@ -1,3 +1,4 @@
+// src/components/BookCard/BookCard.jsx
 import React from 'react';
 import './BookCard.css';
 
@@ -7,7 +8,7 @@ function BookCard({ data, style }) {
     return (
         <div className="bookcard" style={style}>
             <img src={photo_link} alt={`${title} cover`} className="bookcard-image" />
-            <div className="bookcard-content">
+            <div className="bookcard-overlay">
                 {reason && <span className="bookcard-reason">{reason}</span>}
                 <h2 className="bookcard-title">{title}</h2>
                 <p className="bookcard-author">{author}</p>
