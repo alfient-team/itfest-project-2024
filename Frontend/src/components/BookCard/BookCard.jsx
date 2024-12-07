@@ -1,18 +1,18 @@
-// src/components/BookCard/BookCard.jsx
 import React from 'react';
 import './BookCard.css';
 
 function BookCard({ data, style }) {
-    const { title, author, photo_link, summary, reason } = data;
+    const { book, generated_summary, generated_reason } = data;
+    const { title, author, image_link } = book;
 
     return (
         <div className="bookcard" style={style}>
-            <img src={photo_link} alt={`${title} cover`} className="bookcard-image" />
+            <img src={image_link} alt={`${title} cover`} className="bookcard-image" />
             <div className="bookcard-overlay">
-                {reason && <span className="bookcard-reason">{reason}</span>}
+                {generated_reason && <span className="bookcard-reason">{generated_reason}</span>}
                 <h2 className="bookcard-title">{title}</h2>
                 <p className="bookcard-author">{author}</p>
-                <p className="bookcard-summary">{summary}</p>
+                <p className="bookcard-summary">{generated_summary}</p>
             </div>
         </div>
     );
