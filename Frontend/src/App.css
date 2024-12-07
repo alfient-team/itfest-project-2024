@@ -1,0 +1,34 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.App {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  /* Градиент и анимация добавим на следующем этапе */
+  /*background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #fad0c4, #ff9a9e);*/
+  background: linear-gradient(-45deg, #FFDAB9, #FFC4A3, #F79A83);
+  background-size: 400% 400%;
+  animation: gradientBG 15s ease infinite;
+}
+
+@keyframes gradientBG {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+

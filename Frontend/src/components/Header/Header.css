@@ -1,0 +1,12 @@
+.header {
+    text-align: center;
+    padding: 50px 20px 20px;
+}
+
+.header-title {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+}
