@@ -1,3 +1,13 @@
+depl-build:
+	@echo "Building Docker Image to dotpep/flaudlitebackend..."
+	
+	@docker build -t dotpep/flaudlitebackend .
+
+depl-push:
+	@echo "Pushing Docker Image to dotpep/flaudlitebackend..."
+	
+	@docker push dotpep/flaudlitebackend
+
 run:
 	@echo "Server is on running..."
 

@@ -27,7 +27,7 @@ function BookCardList({ query }) {
             }, 30000); // 30000 миллисекунд = 30 секунд
 
             // Выполняем GET-запрос
-            fetch(`https://your-api-endpoint.com/books?search=${encodeURIComponent(query)}`, { signal })
+            fetch(`http://127.0.0.1:8000/books/recommends/${encodeURIComponent(query)}`, { signal })
                 .then(response => {
                     if (!response.ok) {
                         throw new Error('Сетевая ошибка');

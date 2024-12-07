@@ -21,6 +21,7 @@ class IBookResponse(BaseModel):
     id: int
     book: IBookBase
     generated_summary: str
+    generated_reason: str
 
     class Config:
         from_attributes = True
