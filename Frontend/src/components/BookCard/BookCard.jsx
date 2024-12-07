@@ -6,8 +6,10 @@ function BookCard({ data, style }) {
 
     return (
         <div className="bookcard" style={style}>
-            <img src={photo_link} alt={`${title} cover`} className="bookcard-image" />
-            <div className="bookcard-overlay">
+            <div className="bookcard-image-container">
+                <img src={photo_link} alt={`${title} cover`} className="bookcard-image" />
+            </div>
+            <div className="bookcard-content">
                 {reason && <span className="bookcard-reason">{reason}</span>}
                 <h2 className="bookcard-title">{title}</h2>
                 <p className="bookcard-author">{author}</p>
