@@ -15,8 +15,9 @@ docker-logs:
 docker-down:
 	@docker compose down
 
-docker-down:
+docker-remove:
 	@docker compose down -v
+	#@docker-compose down --remove-orphans
 
 docker-exec-app:
 	@docker exec -it fastapi_app sh

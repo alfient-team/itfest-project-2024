@@ -14,6 +14,8 @@ class IBook(IBookBase):
     class Config:
         from_attributes = True  # Ensure Pydantic can handle SQLAlchemy models
 
+class ICreateBook(IBookBase):
+    pass
 
 class IBookResponse(BaseModel):
     id: int
