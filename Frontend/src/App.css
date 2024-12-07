@@ -1,5 +1,3 @@
-@import 'react-loading-skeleton/dist/skeleton.css';
-
 html, body, #root {
   height: 100%;
   margin: 0;
@@ -7,18 +5,19 @@ html, body, #root {
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  color: #fff;
 }
 
 .App {
   min-height: 100%;
   display: flex;
   flex-direction: column;
-  /* Градиент и анимация добавим на следующем этапе */
-  /*background: linear-gradient(-45deg, #ff9a9e, #fad0c4, #fad0c4, #ff9a9e);*/
-  background: linear-gradient(-45deg, #FFDAB9, #FFC4A3, #F79A83);
+  align-items: center;
+  background: linear-gradient(-45deg, #FFDAB9, #FFC4A3, #F79A83, #FFDAB9);
   background-size: 400% 400%;
   animation: gradientBG 15s ease infinite;
+  padding-bottom: 50px;
 }
 
 @keyframes gradientBG {
@@ -33,4 +32,6 @@ body {
   }
 }
 
-
+p {
+  font-size: 1.2rem;
+}
