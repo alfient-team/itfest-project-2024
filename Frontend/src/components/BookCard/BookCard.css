@@ -3,16 +3,16 @@
 .bookcard {
     position: relative;
     width: 100%;
-    max-width: 600px; /* Ограничиваем максимальную ширину карточки */
-    height: 400px; /* Увеличиваем высоту для отображения изображения */
-    background: rgba(255, 255, 255, 0.1); /* Полупрозрачный фон */
-    border-radius: 15px; /* Закругленные углы */
-    overflow: hidden; /* Чтобы содержимое не выходило за границы карточки */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Тень для глубины */
-    backdrop-filter: blur(10px); /* Размытие фона за карточкой */
+    max-width: 600px;
+    height: 400px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
     display: flex;
     flex-direction: column;
-    justify-content: flex-end; /* Размещаем overlay внизу */
+    justify-content: flex-end;
     margin-bottom: 20px;
     opacity: 0;
     transform: translateY(20px);
@@ -22,22 +22,19 @@
 
 .bookcard-image {
     width: 100%;
-    height: 60%; /* Занимает верхнюю часть карточки */
-    object-fit: cover; /* Сохраняет пропорции изображения, заполняет контейнер */
+    height: 60%;
+    object-fit: cover;
 }
 
 .bookcard-overlay {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    height: 40%; /* Нижняя часть карточки */
-    background: rgba(0, 0, 0, 0.6); /* Затемнение для читаемости текста */
+    background: rgba(0, 0, 0, 0.6);
     color: #fff;
-    padding: 20px;
+    padding: 15px 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    width: 100%;
+    height: 40%;
 }
 
 .bookcard-title {
@@ -67,7 +64,6 @@
     align-self: flex-end;
 }
 
-/* Анимация появления */
 @keyframes fadeInUp {
     to {
         opacity: 1;
@@ -81,9 +77,13 @@
         height: 350px;
     }
 
+    .bookcard-image {
+        height: 55%;
+    }
+
     .bookcard-overlay {
         height: 45%;
-        padding: 15px;
+        padding: 10px 15px;
     }
 
     .bookcard-title {

@@ -36,7 +36,7 @@ function BookCardList({ query }) {
                 })
                 .then(data => {
                     clearTimeout(timeoutId); // Очищаем таймаут, если запрос завершился вовремя
-                    setBooks(data);
+                    setBooks(data.book_list); // Устанавливаем массив книг
                     setLoading(false);
                 })
                 .catch(error => {
@@ -61,7 +61,7 @@ function BookCardList({ query }) {
         <div className="bookcard-list">
             {loading ? (
                 // Отображаем скелетоны
-                Array(1).fill().map((_, idx) => (
+                Array(3).fill().map((_, idx) => (
                     <div className="bookcard-skeleton" key={idx}>
                         <Skeleton height={200} />
                         <Skeleton height={30} style={{ marginTop: '10px' }} />
@@ -74,8 +74,8 @@ function BookCardList({ query }) {
                 // Отображаем сообщение об ошибке
                 <p style={{ color: '#fff', marginTop: '20px' }}>{error}</p>
             ) : (
-                books.length > 0 ? books.map((book, idx) => (
-                    <BookCard key={idx} data={book} style={{ '--i': idx }} />
+                books.length > 0 ? books.map((book) => (
+                    <BookCard key={book.id} data={book} style={{ '--i': book.id }} />
                 )) : <p style={{ color: '#fff', marginTop: '20px' }}>Книги не найдены</p>
             )}
         </div>
