@@ -1,0 +1,24 @@
+.searchbar-wrapper {
+    display: inline-block;
+    position: relative;
+}
+
+.searchbar-input {
+    padding: 10px 40px 10px 15px;
+    border-radius: 25px;
+    border: 2px solid rgba(255,255,255,0.8);
+    background: transparent;
+    color: #fff;
+    font-size: 1rem;
+    outline: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.searchbar-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    font-size: 1.2rem;
+}
