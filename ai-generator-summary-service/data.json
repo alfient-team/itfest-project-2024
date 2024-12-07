@@ -418,4 +418,214 @@
       "author": "Mark Horstman",
       "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/60.jpg"
     }
+    ,
+    "61":
+    {
+      "title": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+      "author": "Robert C. Martin",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/61.jpg"
+    }
+    ,
+    "62":
+    {
+      "title": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+      "author": "Gayle Laakmann McDowell",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/62.jpg"
+    }
+    ,
+    "63":
+    {
+      "title": "Designing Data-Intensive Applications",
+      "author": "Martin Kleppmann",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/63.jpg"
+    }
+    ,
+    "64":
+    {
+      "title": "Soft Skills: The Software Developer's Life Manual",
+      "author": "John Sonmez",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/64.jpg"
+    }
+    ,
+    "65":
+    {
+      "title": "System Design Interview – An Insider's Guide",
+      "author": "Alex Xu",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/65.jpg"
+    }
+    ,
+    "66":
+    {
+      "title": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+      "author": "Gene Kim, Kevin Behr, and George Spafford",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/66.jpg"
+    }
+    ,
+    "67":
+    {
+      "title": "The Pragmatic Programmer: Your Journey To Mastery",
+      "author": "Andrew Hunt and David Thomas",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/67.jpg"
+    }
+    ,
+    "68":
+    {
+      "title": "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations",
+      "author": "Nicole Forsgren, Jez Humble, and Gene Kim",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/68.jpg"
+    }
+    ,
+    "69":
+    {
+      "title": "Blindness",
+      "author": "José Saramago",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/69.jpg"
+    }
+    ,
+    "70":
+    {
+      "title": "Building Machine Learning Powered Applications: Going from Idea to Product",
+      "author": "Emmanuel Ameisen",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/70.jpg"
+    }
+    ,
+    "71":
+    {
+      "title": "Cloud Native DevOps with Kubernetes",
+      "author": "John Arundel and Justin Domingus",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/71.jpg"
+    }
+    ,
+    "72":
+    {
+      "title": "Kubernetes: Up and Running: Dive into the Future of Infrastructure",
+      "author": "Brendan Burns, Joe Beda, and Kelsey Hightower",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/72.jpg"
+    }
+    ,
+    "73":
+    {
+      "title": "Laudato Si': On Care for Our Common Home",
+      "author": "Pope Francis",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/73.jpg"
+    }
+    ,
+    "74":
+    {
+      "title": "Machine Learning Engineering",
+      "author": "Andriy Burkov",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/74.jpg"
+    }
+    ,
+    "75":
+    {
+      "title": "Our Common Future",
+      "author": "World Commission on Environment and Development",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/75.jpg"
+    }
+    ,
+    "76":
+    {
+      "title": "Practical MLOps: Operationalizing Machine Learning Models",
+      "author": "Noah Gift and Alfredo Deza",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/76.jpg"
+    }
+    ,
+    "77":
+    {
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/77.jpg"
+    }
+    ,
+    "78":
+    {
+      "title": "Site Reliability Engineering: How Google Runs Production Systems",
+      "author": "Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy (Editors)",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/78.jpg"
+    }
+    ,
+    "79":
+    {
+      "title": "The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations",
+      "author": "Gene Kim, Jez Humble, Patrick Debois, John Willis",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/79.jpg"
+    }
+    ,
+    "80":
+    {
+      "title": "The Dispossessed",
+      "author": "Ursula K. Le Guin",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/80.jpg"
+    }
+    ,
+    "81":
+    {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/81.jpg"
+    }
+    ,
+    "82":
+    {
+      "title": "The Hungry Tide",
+      "author": "Amitav Ghosh",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/82.jpg"
+    }
+    ,
+    "83":
+    {
+      "title": "The Imperative of Responsibility: In Search of an Ethics for the Technological Age",
+      "author": "Hans Jonas",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/83.jpg"
+    }
+    ,
+    "84":
+    {
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/84.jpg"
+    }
+    ,
+    "85":
+    {
+      "title": "The Overstory",
+      "author": "Richard Powers",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/85.jpg"
+    }
+    ,
+    "86":
+    {
+      "title": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
+      "author": "Gene Kim, Kevin Behr, and George Spafford",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/86.jpg"
+    }
+    ,
+    "87":
+    {
+      "title": "The Prize: The Epic Quest for Oil, Money, and Power",
+      "author": "Daniel Yergin",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/87.jpg"
+    }
+    ,
+    "88":
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/88.jpg"
+    }
+    ,
+    "89":
+    {
+      "title": "The Road to Survival",
+      "author": "William Vogt",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/89.jpg"
+    }
+    ,
+    "90":
+    {
+      "title": "The Windup Girl",
+      "author": "Paolo Bacigalupi",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/90.jpg"
+    }
 }
