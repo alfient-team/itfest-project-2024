@@ -3,8 +3,13 @@ from json import JSONDecodeError
 import requests
 import json
 
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
 # Константы
-OPENAI_API_KEY = "asdasd"
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 OPENAI_API_URL = "https://api.openai.com/v1/chat/completions"
 PROMPT = f"""You are a helpful assistant that returns answers strictly in JSON format. The user will provide a request describing the kind of books they want. Given the user’s request, you must:
 
@@ -42,7 +47,7 @@ def get_books_from_openai(prompt: str):
             {"role": "system", "content": PROMPT},
             {"role": "user", "content": prompt}
         ],
-        "temperature": 0.4
+        "temperature": 0.7
     }
 
     response = requests.post(OPENAI_API_URL, headers=headers, json=data)
@@ -57,9 +62,18 @@ def get_books_from_openai(prompt: str):
 
 if __name__ == "__main__":
     # Вызываем функцию с нашим PROMPT
+    #user_prompt = """
+    #Нужны книги от авторов, получивших Нобелевскую премию, рассматривающие экологические проблемы и взаимоотношения человека и природы, с научными аргументами и примерами.
+    #"""
+    
+    #user_prompt = """
+    #We need books from Nobel Prize-winning authors addressing environmental issues and human-nature relations, with scientific arguments and examples.
+    #"""
+
     user_prompt = """
-    Нужны книги от авторов, получивших Нобелевскую премию, рассматривающие экологические проблемы и взаимоотношения человека и природы, с научными аргументами и примерами.
+    I want to find a book for my professional carrer development in IT or specially in Backend side of web development, I want to became a Senior, Tech lead, Head of Backend and in the end of all Solution Architect. Give me a technical and also development in soft skill books. Also additional with books that provides how to sell yourself, how to pass an interview, road to FAANG and algorithms with data structures, system design questions and tasks.
     """
+    
     books_text = get_books_from_openai(user_prompt)
 
     # Печатаем полученный JSON

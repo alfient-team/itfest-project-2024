@@ -1,0 +1,362 @@
+{
+    "01":
+    {
+      "Title": "The Pragmatic Programmer: Your Journey to Mastery (20th Anniversary Edition)",
+      "Author": "Andrew Hunt and David Thomas",
+      "image_link": "s3_link"
+    },
+    "02":
+    {
+      "Title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "Author": "Robert C. Martin",
+      "image_link": "s3_link"
+    },
+    "03":
+    {
+      "Title": "Clean Architecture: A Craftsman’s Guide to Software Structure and Design",
+      "Author": "Robert C. Martin",
+      "image_link": "s3_link"
+    },
+    "04":
+    {
+      "Title": "The Clean Coder: A Code of Conduct for Professional Programmers",
+      "Author": "Robert C. Martin",
+      "image_link": "s3_link"
+    },
+    "05":
+    {
+      "Title": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+      "Author": "Gayle Laakmann McDowell",
+      "image_link": "s3_link"
+    },
+    "06":
+    {
+      "Title": "System Design Interview – An Insider’s Guide (Volume 1)",
+      "Author": "Alex Xu",
+      "image_link": "s3_link"
+    },
+    "07":
+    {
+      "Title": "Grokking the System Design Interview",
+      "Author": "Design Gurus",
+      "image_link": "s3_link"
+    },
+    "08":
+    {
+      "Title": "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
+      "Author": "Martin Kleppmann",
+      "image_link": "s3_link"
+    },
+    "09":
+    {
+      "Title": "The Manager’s Path: A Guide for Tech Leaders Navigating Growth and Change",
+      "Author": "Camille Fournier",
+      "image_link": "s3_link"
+    },
+    "10":
+    {
+      "Title": "Accelerate: The Science of Lean Software and DevOps",
+      "Author": "Nicole Forsgren, Jez Humble, and Gene Kim",
+      "image_link": "s3_link"
+    },
+    "11":
+    {
+      "Title": "Refactoring: Improving the Design of Existing Code (2nd Edition)",
+      "Author": "Martin Fowler",
+      "image_link": "s3_link"
+    },
+    "12":
+    {
+      "Title": "Effective Java (3rd Edition)",
+      "Author": "Joshua Bloch",
+      "image_link": "s3_link"
+    },
+    "13":
+    {
+      "Title": "Algorithms (4th Edition)",
+      "Author": "Robert Sedgewick and Kevin Wayne",
+      "image_link": "s3_link"
+    },
+    "14":
+    {
+      "Title": "Data Structures and Algorithms Made Easy",
+      "Author": "Narasimha Karumanchi",
+      "image_link": "s3_link"
+    },
+    "15":
+    {
+      "Title": "Head First Design Patterns: A Brain-Friendly Guide",
+      "Author": "Eric Freeman, Elisabeth Robson, Bert Bates, and Kathy Sierra",
+      "image_link": "s3_link"
+    },
+    "16":
+    {
+      "Title": "Soft Skills: The Software Developer’s Life Manual",
+      "Author": "John Sonmez",
+      "image_link": "s3_link"
+    },
+    "17":
+    {
+      "Title": "The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate Impact",
+      "Author": "Edmond Lau",
+      "image_link": "s3_link"
+    },
+    "18":
+    {
+      "Title": "High Output Management",
+      "Author": "Andrew S. Grove",
+      "image_link": "s3_link"
+    },
+    "19":
+    {
+      "Title": "Peopleware: Productive Projects and Teams",
+      "Author": "Tom DeMarco and Timothy Lister",
+      "image_link": "s3_link"
+    },
+    "20":
+    {
+      "Title": "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win",
+      "Author": "Gene Kim, Kevin Behr, and George Spafford",
+      "image_link": "s3_link"
+    },
+    "21":
+    {
+      "Title": "The Art of Computer Programming (Volumes 1-4)",
+      "Author": "Donald E. Knuth",
+      "image_link": "s3_link"
+    },
+    "22":
+    {
+      "Title": "Site Reliability Engineering: How Google Runs Production Systems",
+      "Author": "Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy (Editors)",
+      "image_link": "s3_link"
+    },
+    "23":
+    {
+      "Title": "Staff Engineer: Leadership Beyond the Management Track",
+      "Author": "Will Larson",
+      "image_link": "s3_link"
+    },
+    "24":
+    {
+      "Title": "Building Microservices: Designing Fine-Grained Systems",
+      "Author": "Sam Newman",
+      "image_link": "s3_link"
+    },
+    "25":
+    {
+      "Title": "Microservices Patterns: With examples in Java",
+      "Author": "Chris Richardson",
+      "image_link": "s3_link"
+    },
+    "26":
+    {
+      "Title": "The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data",
+      "Author": "Gene Kim",
+      "image_link": "s3_link"
+    },
+    "27":
+    {
+      "Title": "Coders at Work: Reflections on the Craft of Programming",
+      "Author": "Peter Seibel",
+      "image_link": "s3_link"
+    },
+    "28":
+    {
+      "Title": "Working Effectively with Legacy Code",
+      "Author": "Michael C. Feathers",
+      "image_link": "s3_link"
+    },
+    "29":
+    {
+      "Title": "The Design of Everyday Things",
+      "Author": "Don Norman",
+      "image_link": "s3_link"
+    },
+    "30":
+    {
+      "Title": "Elements of Programming Interviews in Python: The Insiders’ Guide",
+      "Author": "Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash",
+      "image_link": "s3_link"
+    },
+    "31":
+    {
+      "Title": "Elements of Programming Interviews in Java: The Insiders’ Guide",
+      "Author": "Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash",
+      "image_link": "s3_link"
+    },
+    "32":
+    {
+      "Title": "The Inmates Are Running the Asylum",
+      "Author": "Alan Cooper",
+      "image_link": "s3_link"
+    },
+    "33":
+    {
+      "Title": "Programming Pearls (2nd Edition)",
+      "Author": "Jon Bentley",
+      "image_link": "s3_link"
+    },
+    "34":
+    {
+      "Title": "Interviewing Users: How to Uncover Compelling Insights",
+      "Author": "Steve Portigal",
+      "image_link": "s3_link"
+    },
+    "35":
+    {
+      "Title": "A Philosophy of Software Design",
+      "Author": "John Ousterhout",
+      "image_link": "s3_link"
+    },
+    "36":
+    {
+      "Title": "Web Scalability for Startup Engineers",
+      "Author": "Artur Ejsmont",
+      "image_link": "s3_link"
+    },
+    "37":
+    {
+      "Title": "Solutions Architect’s Handbook: Kick-start Your Career as a Solutions Architect",
+      "Author": "Saurabh Shrivastava and Neelanjali Srivastav",
+      "image_link": "s3_link"
+    },
+    "38":
+    {
+      "Title": "Technical Program Manager’s Handbook: A Career in Tech Project Management and Delivery",
+      "Author": "Joshua Alan Davis",
+      "image_link": "s3_link"
+    },
+    "39":
+    {
+      "Title": "How to Get a Job in Tech: A Step-by-Step Guide for Starting Your Tech Career",
+      "Author": "Sonny Bueno",
+      "image_link": "s3_link"
+    },
+    "40":
+    {
+      "Title": "Become an Effective Software Engineering Manager",
+      "Author": "James Stanier",
+      "image_link": "s3_link"
+    },
+    "41":
+    {
+      "Title": "The Software Architect Elevator: Transforming Enterprises with Cloud, DevOps, and Microservices",
+      "Author": "Gregor Hohpe",
+      "image_link": "s3_link"
+    },
+    "42":
+    {
+      "Title": "Building Evolutionary Architectures: Support Constant Change",
+      "Author": "Neal Ford, Rebecca Parsons, and Patrick Kua",
+      "image_link": "s3_link"
+    },
+    "43":
+    {
+      "Title": "Data Strategy: How to Profit From a World of Big Data, Analytics and the Internet of Things",
+      "Author": "Bernard Marr",
+      "image_link": "s3_link"
+    },
+    "44":
+    {
+      "Title": "The Art of Scalability: Scalable Web Architecture, Processes, and Organizations",
+      "Author": "Martin L. Abbott and Michael T. Fisher",
+      "image_link": "s3_link"
+    },
+    "45":
+    {
+      "Title": "Leading Snowflakes: The Engineering Manager’s Handbook",
+      "Author": "Oren Ellenbogen",
+      "image_link": "s3_link"
+    },
+    "46":
+    {
+      "Title": "Team Topologies: Organizing Business and Technology Teams for Fast Flow",
+      "Author": "Matthew Skelton and Manuel Pais",
+      "image_link": "s3_link"
+    },
+    "47":
+    {
+      "Title": "The Productive Programmer",
+      "Author": "Neal Ford",
+      "image_link": "s3_link"
+    },
+    "48":
+    {
+      "Title": "An Elegant Puzzle: Systems of Engineering Management",
+      "Author": "Will Larson",
+      "image_link": "s3_link"
+    },
+    "49":
+    {
+      "Title": "Rework",
+      "Author": "Jason Fried and David Heinemeier Hansson",
+      "image_link": "s3_link"
+    },
+    "50":
+    {
+      "Title": "Lean In: Women, Work, and the Will to Lead",
+      "Author": "Sheryl Sandberg",
+      "image_link": "s3_link"
+    },
+    "51":
+    {
+      "Title": "Drive: The Surprising Truth About What Motivates Us",
+      "Author": "Daniel H. Pink",
+      "image_link": "s3_link"
+    },
+    "52":
+    {
+      "Title": "Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity",
+      "Author": "Kim Scott",
+      "image_link": "s3_link"
+    },
+    "53":
+    {
+      "Title": "The Mythical Man-Month: Essays on Software Engineering",
+      "Author": "Frederick P. Brooks Jr.",
+      "image_link": "s3_link"
+    },
+    "54":
+    {
+      "Title": "Extreme Programming Explained: Embrace Change (2nd Edition)",
+      "Author": "Kent Beck",
+      "image_link": "s3_link"
+    },
+    "55":
+    {
+      "Title": "How Google Works",
+      "Author": "Eric Schmidt and Jonathan Rosenberg",
+      "image_link": "s3_link"
+    },
+    "56":
+    {
+      "Title": "Effective Python: 90 Specific Ways to Write Better Python (2nd Edition)",
+      "Author": "Brett Slatkin",
+      "image_link": "s3_link"
+    },
+    "57":
+    {
+      "Title": "Building Secure & Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems",
+      "Author": "Heather Adkins et al.",
+      "image_link": "s3_link"
+    },
+    "58":
+    {
+      "Title": "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions",
+      "Author": "Gregor Hohpe and Bobby Woolf",
+      "image_link": "s3_link"
+    },
+    "59":
+    {
+      "Title": "Hiring Geeks That Fit",
+      "Author": "Johanna Rothman",
+      "image_link": "s3_link"
+    },
+    "60":
+    {
+      "Title": "The Effective Hiring Manager",
+      "Author": "Mark Horstman",
+      "image_link": "s3_link"
+    }
+}
