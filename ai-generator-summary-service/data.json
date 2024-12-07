@@ -1,362 +1,421 @@
 {
     "01":
     {
-      "Title": "The Pragmatic Programmer: Your Journey to Mastery (20th Anniversary Edition)",
-      "Author": "Andrew Hunt and David Thomas",
-      "image_link": "s3_link"
-    },
+      "title": "The Pragmatic Programmer: Your Journey to Mastery (20th Anniversary Edition)",
+      "author": "Andrew Hunt and David Thomas",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/1.jpg"
+    }
+    ,
     "02":
     {
-      "Title": "Clean Code: A Handbook of Agile Software Craftsmanship",
-      "Author": "Robert C. Martin",
-      "image_link": "s3_link"
-    },
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/2.jpg"
+    }
+    ,
     "03":
     {
-      "Title": "Clean Architecture: A Craftsman’s Guide to Software Structure and Design",
-      "Author": "Robert C. Martin",
-      "image_link": "s3_link"
-    },
+      "title": "Clean Architecture: A Craftsman’s Guide to Software Structure and Design",
+      "author": "Robert C. Martin",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/3.jpg"
+    }
+    ,
     "04":
     {
-      "Title": "The Clean Coder: A Code of Conduct for Professional Programmers",
-      "Author": "Robert C. Martin",
-      "image_link": "s3_link"
-    },
+      "title": "The Clean Coder: A Code of Conduct for Professional Programmers",
+      "author": "Robert C. Martin",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/4.jpg"
+    }
+    ,
     "05":
     {
-      "Title": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
-      "Author": "Gayle Laakmann McDowell",
-      "image_link": "s3_link"
-    },
+      "title": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+      "author": "Gayle Laakmann McDowell",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/5.jpg"
+    }
+    ,
     "06":
     {
-      "Title": "System Design Interview – An Insider’s Guide (Volume 1)",
-      "Author": "Alex Xu",
-      "image_link": "s3_link"
-    },
+      "title": "System Design Interview – An Insider’s Guide (Volume 1)",
+      "author": "Alex Xu",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/6.jpg"
+    }
+    ,
     "07":
     {
-      "Title": "Grokking the System Design Interview",
-      "Author": "Design Gurus",
-      "image_link": "s3_link"
-    },
+      "title": "Grokking the System Design Interview",
+      "author": "Design Gurus",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/7.jpg"
+    }
+    ,
     "08":
     {
-      "Title": "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
-      "Author": "Martin Kleppmann",
-      "image_link": "s3_link"
-    },
+      "title": "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems",
+      "author": "Martin Kleppmann",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/8.jpg"
+    }
+    ,
     "09":
     {
-      "Title": "The Manager’s Path: A Guide for Tech Leaders Navigating Growth and Change",
-      "Author": "Camille Fournier",
-      "image_link": "s3_link"
-    },
+      "title": "The Manager’s Path: A Guide for Tech Leaders Navigating Growth and Change",
+      "author": "Camille Fournier",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/9.jpg"
+    }
+    ,
     "10":
     {
-      "Title": "Accelerate: The Science of Lean Software and DevOps",
-      "Author": "Nicole Forsgren, Jez Humble, and Gene Kim",
-      "image_link": "s3_link"
-    },
+      "title": "Accelerate: The Science of Lean Software and DevOps",
+      "author": "Nicole Forsgren, Jez Humble, and Gene Kim",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/10.jpg"
+    }
+    ,
     "11":
     {
-      "Title": "Refactoring: Improving the Design of Existing Code (2nd Edition)",
-      "Author": "Martin Fowler",
-      "image_link": "s3_link"
-    },
+      "title": "Refactoring: Improving the Design of Existing Code (2nd Edition)",
+      "author": "Martin Fowler",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/11.jpg"
+    }
+    ,
     "12":
     {
-      "Title": "Effective Java (3rd Edition)",
-      "Author": "Joshua Bloch",
-      "image_link": "s3_link"
-    },
+      "title": "Effective Java (3rd Edition)",
+      "author": "Joshua Bloch",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/12.jpg"
+    }
+    ,
     "13":
     {
-      "Title": "Algorithms (4th Edition)",
-      "Author": "Robert Sedgewick and Kevin Wayne",
-      "image_link": "s3_link"
-    },
+      "title": "Algorithms (4th Edition)",
+      "author": "Robert Sedgewick and Kevin Wayne",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/13.jpg"
+    }
+    ,
     "14":
     {
-      "Title": "Data Structures and Algorithms Made Easy",
-      "Author": "Narasimha Karumanchi",
-      "image_link": "s3_link"
-    },
+      "title": "Data Structures and Algorithms Made Easy",
+      "author": "Narasimha Karumanchi",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/14.jpg"
+    }
+    ,
     "15":
     {
-      "Title": "Head First Design Patterns: A Brain-Friendly Guide",
-      "Author": "Eric Freeman, Elisabeth Robson, Bert Bates, and Kathy Sierra",
-      "image_link": "s3_link"
-    },
+      "title": "Head First Design Patterns: A Brain-Friendly Guide",
+      "author": "Eric Freeman, Elisabeth Robson, Bert Bates, and Kathy Sierra",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/15.jpg"
+    }
+    ,
     "16":
     {
-      "Title": "Soft Skills: The Software Developer’s Life Manual",
-      "Author": "John Sonmez",
-      "image_link": "s3_link"
-    },
+      "title": "Soft Skills: The Software Developer’s Life Manual",
+      "author": "John Sonmez",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/16.jpg"
+    }
+    ,
     "17":
     {
-      "Title": "The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate Impact",
-      "Author": "Edmond Lau",
-      "image_link": "s3_link"
-    },
+      "title": "The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate Impact",
+      "author": "Edmond Lau",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/17.jpg"
+    }
+    ,
     "18":
     {
-      "Title": "High Output Management",
-      "Author": "Andrew S. Grove",
-      "image_link": "s3_link"
-    },
+      "title": "High Output Management",
+      "author": "Andrew S. Grove",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/18.jpg"
+    }
+    ,
     "19":
     {
-      "Title": "Peopleware: Productive Projects and Teams",
-      "Author": "Tom DeMarco and Timothy Lister",
-      "image_link": "s3_link"
-    },
+      "title": "Peopleware: Productive Projects and Teams",
+      "author": "Tom DeMarco and Timothy Lister",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/19.jpg"
+    }
+    ,
     "20":
     {
-      "Title": "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win",
-      "Author": "Gene Kim, Kevin Behr, and George Spafford",
-      "image_link": "s3_link"
-    },
+      "title": "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win",
+      "author": "Gene Kim, Kevin Behr, and George Spafford",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/20.jpg"
+    }
+    ,
     "21":
     {
-      "Title": "The Art of Computer Programming (Volumes 1-4)",
-      "Author": "Donald E. Knuth",
-      "image_link": "s3_link"
-    },
+      "title": "The Art of Computer Programming (Volumes 1-4)",
+      "author": "Donald E. Knuth",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/21.jpg"
+    }
+    ,
     "22":
     {
-      "Title": "Site Reliability Engineering: How Google Runs Production Systems",
-      "Author": "Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy (Editors)",
-      "image_link": "s3_link"
-    },
+      "title": "Site Reliability Engineering: How Google Runs Production Systems",
+      "author": "Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy (Editors)",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/22.jpg"
+    }
+    ,
     "23":
     {
-      "Title": "Staff Engineer: Leadership Beyond the Management Track",
-      "Author": "Will Larson",
-      "image_link": "s3_link"
-    },
+      "title": "Staff Engineer: Leadership Beyond the Management Track",
+      "author": "Will Larson",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/23.jpg"
+    }
+    ,
     "24":
     {
-      "Title": "Building Microservices: Designing Fine-Grained Systems",
-      "Author": "Sam Newman",
-      "image_link": "s3_link"
-    },
+      "title": "Building Microservices: Designing Fine-Grained Systems",
+      "author": "Sam Newman",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/24.jpg"
+    }
+    ,
     "25":
     {
-      "Title": "Microservices Patterns: With examples in Java",
-      "Author": "Chris Richardson",
-      "image_link": "s3_link"
-    },
+      "title": "Microservices Patterns: With examples in Java",
+      "author": "Chris Richardson",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/25.jpg"
+    }
+    ,
     "26":
     {
-      "Title": "The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data",
-      "Author": "Gene Kim",
-      "image_link": "s3_link"
-    },
+      "title": "The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data",
+      "author": "Gene Kim",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/26.jpg"
+    }
+    ,
     "27":
     {
-      "Title": "Coders at Work: Reflections on the Craft of Programming",
-      "Author": "Peter Seibel",
-      "image_link": "s3_link"
-    },
+      "title": "Coders at Work: Reflections on the Craft of Programming",
+      "author": "Peter Seibel",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/27.jpg"
+    }
+    ,
     "28":
     {
-      "Title": "Working Effectively with Legacy Code",
-      "Author": "Michael C. Feathers",
-      "image_link": "s3_link"
-    },
+      "title": "Working Effectively with Legacy Code",
+      "author": "Michael C. Feathers",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/28.jpg"
+    }
+    ,
     "29":
     {
-      "Title": "The Design of Everyday Things",
-      "Author": "Don Norman",
-      "image_link": "s3_link"
-    },
+      "title": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/29.jpg"
+    }
+    ,
     "30":
     {
-      "Title": "Elements of Programming Interviews in Python: The Insiders’ Guide",
-      "Author": "Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash",
-      "image_link": "s3_link"
-    },
+      "title": "Elements of Programming Interviews in Python: The Insiders’ Guide",
+      "author": "Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/30.jpg"
+    }
+    ,
     "31":
     {
-      "Title": "Elements of Programming Interviews in Java: The Insiders’ Guide",
-      "Author": "Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash",
-      "image_link": "s3_link"
-    },
+      "title": "Elements of Programming Interviews in Java: The Insiders’ Guide",
+      "author": "Adnan Aziz, Tsung-Hsien Lee, and Amit Prakash",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/31.jpg"
+    }
+    ,
     "32":
     {
-      "Title": "The Inmates Are Running the Asylum",
-      "Author": "Alan Cooper",
-      "image_link": "s3_link"
-    },
+      "title": "The Inmates Are Running the Asylum",
+      "author": "Alan Cooper",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/32.jpg"
+    }
+    ,
     "33":
     {
-      "Title": "Programming Pearls (2nd Edition)",
-      "Author": "Jon Bentley",
-      "image_link": "s3_link"
-    },
+      "title": "Programming Pearls (2nd Edition)",
+      "author": "Jon Bentley",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/33.jpg"
+    }
+    ,
     "34":
     {
-      "Title": "Interviewing Users: How to Uncover Compelling Insights",
-      "Author": "Steve Portigal",
-      "image_link": "s3_link"
-    },
+      "title": "Interviewing Users: How to Uncover Compelling Insights",
+      "author": "Steve Portigal",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/34.jpg"
+    }
+    ,
     "35":
     {
-      "Title": "A Philosophy of Software Design",
-      "Author": "John Ousterhout",
-      "image_link": "s3_link"
-    },
+      "title": "A Philosophy of Software Design",
+      "author": "John Ousterhout",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/35.jpg"
+    }
+    ,
     "36":
     {
-      "Title": "Web Scalability for Startup Engineers",
-      "Author": "Artur Ejsmont",
-      "image_link": "s3_link"
-    },
+      "title": "Web Scalability for Startup Engineers",
+      "author": "Artur Ejsmont",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/36.jpg"
+    }
+    ,
     "37":
     {
-      "Title": "Solutions Architect’s Handbook: Kick-start Your Career as a Solutions Architect",
-      "Author": "Saurabh Shrivastava and Neelanjali Srivastav",
-      "image_link": "s3_link"
-    },
+      "title": "Solutions Architect’s Handbook: Kick-start Your Career as a Solutions Architect",
+      "author": "Saurabh Shrivastava and Neelanjali Srivastav",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/37.jpg"
+    }
+    ,
     "38":
     {
-      "Title": "Technical Program Manager’s Handbook: A Career in Tech Project Management and Delivery",
-      "Author": "Joshua Alan Davis",
-      "image_link": "s3_link"
-    },
+      "title": "Technical Program Manager’s Handbook: A Career in Tech Project Management and Delivery",
+      "author": "Joshua Alan Davis",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/38.jpg"
+    }
+    ,
     "39":
     {
-      "Title": "How to Get a Job in Tech: A Step-by-Step Guide for Starting Your Tech Career",
-      "Author": "Sonny Bueno",
-      "image_link": "s3_link"
-    },
+      "title": "How to Get a Job in Tech: A Step-by-Step Guide for Starting Your Tech Career",
+      "author": "Sonny Bueno",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/39.jpg"
+    }
+    ,
     "40":
     {
-      "Title": "Become an Effective Software Engineering Manager",
-      "Author": "James Stanier",
-      "image_link": "s3_link"
-    },
+      "title": "Become an Effective Software Engineering Manager",
+      "author": "James Stanier",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/40.jpg"
+    }
+    ,
     "41":
     {
-      "Title": "The Software Architect Elevator: Transforming Enterprises with Cloud, DevOps, and Microservices",
-      "Author": "Gregor Hohpe",
-      "image_link": "s3_link"
-    },
+      "title": "The Software Architect Elevator: Transforming Enterprises with Cloud, DevOps, and Microservices",
+      "author": "Gregor Hohpe",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/41.jpg"
+    }
+    ,
     "42":
     {
-      "Title": "Building Evolutionary Architectures: Support Constant Change",
-      "Author": "Neal Ford, Rebecca Parsons, and Patrick Kua",
-      "image_link": "s3_link"
-    },
+      "title": "Building Evolutionary Architectures: Support Constant Change",
+      "author": "Neal Ford, Rebecca Parsons, and Patrick Kua",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/42.jpg"
+    }
+    ,
     "43":
     {
-      "Title": "Data Strategy: How to Profit From a World of Big Data, Analytics and the Internet of Things",
-      "Author": "Bernard Marr",
-      "image_link": "s3_link"
-    },
+      "title": "Data Strategy: How to Profit From a World of Big Data, Analytics and the Internet of Things",
+      "author": "Bernard Marr",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/43.jpg"
+    }
+    ,
     "44":
     {
-      "Title": "The Art of Scalability: Scalable Web Architecture, Processes, and Organizations",
-      "Author": "Martin L. Abbott and Michael T. Fisher",
-      "image_link": "s3_link"
-    },
+      "title": "The Art of Scalability: Scalable Web Architecture, Processes, and Organizations",
+      "author": "Martin L. Abbott and Michael T. Fisher",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/44.jpg"
+    }
+    ,
     "45":
     {
-      "Title": "Leading Snowflakes: The Engineering Manager’s Handbook",
-      "Author": "Oren Ellenbogen",
-      "image_link": "s3_link"
-    },
+      "title": "Leading Snowflakes: The Engineering Manager’s Handbook",
+      "author": "Oren Ellenbogen",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/45.jpg"
+    }
+    ,
     "46":
     {
-      "Title": "Team Topologies: Organizing Business and Technology Teams for Fast Flow",
-      "Author": "Matthew Skelton and Manuel Pais",
-      "image_link": "s3_link"
-    },
+      "title": "Team Topologies: Organizing Business and Technology Teams for Fast Flow",
+      "author": "Matthew Skelton and Manuel Pais",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/46.jpg"
+    }
+    ,
     "47":
     {
-      "Title": "The Productive Programmer",
-      "Author": "Neal Ford",
-      "image_link": "s3_link"
-    },
+      "title": "The Productive Programmer",
+      "author": "Neal Ford",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/47.jpg"
+    }
+    ,
     "48":
     {
-      "Title": "An Elegant Puzzle: Systems of Engineering Management",
-      "Author": "Will Larson",
-      "image_link": "s3_link"
-    },
+      "title": "An Elegant Puzzle: Systems of Engineering Management",
+      "author": "Will Larson",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/48.jpg"
+    }
+    ,
     "49":
     {
-      "Title": "Rework",
-      "Author": "Jason Fried and David Heinemeier Hansson",
-      "image_link": "s3_link"
-    },
+      "title": "Rework",
+      "author": "Jason Fried and David Heinemeier Hansson",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/49.jpg"
+    }
+    ,
     "50":
     {
-      "Title": "Lean In: Women, Work, and the Will to Lead",
-      "Author": "Sheryl Sandberg",
-      "image_link": "s3_link"
-    },
+      "title": "Lean In: Women, Work, and the Will to Lead",
+      "author": "Sheryl Sandberg",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/50.jpg"
+    }
+    ,
     "51":
     {
-      "Title": "Drive: The Surprising Truth About What Motivates Us",
-      "Author": "Daniel H. Pink",
-      "image_link": "s3_link"
-    },
+      "title": "Drive: The Surprising Truth About What Motivates Us",
+      "author": "Daniel H. Pink",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/51.jpg"
+    }
+    ,
     "52":
     {
-      "Title": "Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity",
-      "Author": "Kim Scott",
-      "image_link": "s3_link"
-    },
+      "title": "Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity",
+      "author": "Kim Scott",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/52.jpg"
+    }
+    ,
     "53":
     {
-      "Title": "The Mythical Man-Month: Essays on Software Engineering",
-      "Author": "Frederick P. Brooks Jr.",
-      "image_link": "s3_link"
-    },
+      "title": "The Mythical Man-Month: Essays on Software Engineering",
+      "author": "Frederick P. Brooks Jr.",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/53.jpg"
+    }
+    ,
     "54":
     {
-      "Title": "Extreme Programming Explained: Embrace Change (2nd Edition)",
-      "Author": "Kent Beck",
-      "image_link": "s3_link"
-    },
+      "title": "Extreme Programming Explained: Embrace Change (2nd Edition)",
+      "author": "Kent Beck",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/54.jpg"
+    }
+    ,
     "55":
     {
-      "Title": "How Google Works",
-      "Author": "Eric Schmidt and Jonathan Rosenberg",
-      "image_link": "s3_link"
-    },
+      "title": "How Google Works",
+      "author": "Eric Schmidt and Jonathan Rosenberg",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/55.jpg"
+    }
+    ,
     "56":
     {
-      "Title": "Effective Python: 90 Specific Ways to Write Better Python (2nd Edition)",
-      "Author": "Brett Slatkin",
-      "image_link": "s3_link"
-    },
+      "title": "Effective Python: 90 Specific Ways to Write Better Python (2nd Edition)",
+      "author": "Brett Slatkin",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/56.jpg"
+    }
+    ,
     "57":
     {
-      "Title": "Building Secure & Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems",
-      "Author": "Heather Adkins et al.",
-      "image_link": "s3_link"
-    },
+      "title": "Building Secure & Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems",
+      "author": "Heather Adkins et al.",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/57.jpg"
+    }
+    ,
     "58":
     {
-      "Title": "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions",
-      "Author": "Gregor Hohpe and Bobby Woolf",
-      "image_link": "s3_link"
-    },
+      "title": "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions",
+      "author": "Gregor Hohpe and Bobby Woolf",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/58.jpg"
+    }
+    ,
     "59":
     {
-      "Title": "Hiring Geeks That Fit",
-      "Author": "Johanna Rothman",
-      "image_link": "s3_link"
-    },
+      "title": "Hiring Geeks That Fit",
+      "author": "Johanna Rothman",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/59.jpg"
+    }
+    ,
     "60":
     {
-      "Title": "The Effective Hiring Manager",
-      "Author": "Mark Horstman",
-      "image_link": "s3_link"
+      "title": "The Effective Hiring Manager",
+      "author": "Mark Horstman",
+      "image_link": "https://vk-cloud-prod.hb.kz-ast.bizmrg.com/book_images/60.jpg"
     }
 }
